@@ -1,2 +1,8 @@
 *.class
 *.log
+target
+.idea/
+*.iml
+.DS_Store
+/gradle-plugin/.gradle/
+/gradle-plugin/build/
